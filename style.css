@@ -1,0 +1,25 @@
+#main-page {
+    text-align:center;
+    font-weight:bold;
+    background-color:darkcyan;
+}
+
+.title {
+    color: black;
+}
+
+p {
+    font-size: large;
+    font-family:'Courier New', 'Courier', sans-serif;
+}
+
+* {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
+    background-color: hsl(0, 5%, 70%);
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
